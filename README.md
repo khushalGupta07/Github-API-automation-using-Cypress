@@ -9,7 +9,7 @@ For setup kindly follow below steps :
  export CYPRESS_userToken=Bearer <Token>
 
 
-4. To get above token follow below steps : 
+5. To get above token follow below steps : 
     1. Log in to your GitHub account.
     2. Navigate to Settings > Developer settings > Personal access tokens.
     3. Click on "Generate new token".
@@ -18,6 +18,6 @@ For setup kindly follow below steps :
     6. Click "Generate token" at the bottom of the page.
     7. Copy the generated token and store it securely.
 
-5. Run "source dev.sh" on terminal
-6. TO open cypress run "npx cypress open"
-7. Run test cases in dev mode and verify api validations.
+6. Run "source dev.sh" on terminal
+7. TO open cypress run "npx cypress open"
+8. Run test cases in dev mode and verify api validations.
