@@ -8,7 +8,7 @@ For setup kindly follow below steps :
  
  export CYPRESS_baseUrl=https://api.github.com
  
- export CYPRESS_userToken=Bearer <Token>
+ export CYPRESS_userToken=Bearer Token
 
 
 5. To get above token follow below steps : 
@@ -23,3 +23,5 @@ For setup kindly follow below steps :
 6. Run "source dev.sh" on terminal
 7. TO open cypress run "npx cypress open"
 8. Run test cases in dev mode and verify api validations.
+
+Note : to generate report and run all test cases : Run "npx cypress run" after execution it will automtically generate refort folder under cypress folder.

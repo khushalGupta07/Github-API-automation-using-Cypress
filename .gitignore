@@ -1,0 +1,7 @@
+.vscode
+.DS_Store
+node_modules
+*.sh
+cypress/videos
+cypress/screenshots
+cypress/reports
