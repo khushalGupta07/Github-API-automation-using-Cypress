@@ -4,8 +4,10 @@ Welcome to Github-API-automation-using-Cypress
 For setup kindly follow below steps : 
 1. Clone this repo
 2. Run "npm i" on terminal
-3. Create dev.sh file and paste below lines : 
+3. Create dev.sh file and paste below lines :
+ 
  export CYPRESS_baseUrl=https://api.github.com
+ 
  export CYPRESS_userToken=Bearer <Token>
 
 
